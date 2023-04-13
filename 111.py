@@ -55,5 +55,4 @@ dispatcher.add_handler(CommandHandler('doc', doc))
 # Start polling for updates
 updater.start_polling()
 
-# Let the user know the bot is running
-print('Bot is running. Press Ctrl+C to stop.')
+
